@@ -12,7 +12,7 @@
 
 const content = {
   // ---------- About you ----------
-  name: "Percy Portfolio",
+  name: "Frank's Portfolio",
   tagline: "Aspiring software developer & professional thumbs-up giver 👍", // one line under your name
 
   // Put your photo in the assets/ folder and put its file name here.
@@ -46,9 +46,9 @@ const content = {
   // ---------- Links (shown as buttons at the top) ----------
   // For email just write the address, e.g. "you@example.com".
   links: [
-    { label: "GitHub", url: "https://github.com/your-username" },
-    { label: "LinkedIn", url: "https://www.linkedin.com/in/your-name" },
-    { label: "Email", url: "percy@example.com" },
+    { label: "GitHub", url: "https://github.com/deplaymaker3" },
+    { label: "LinkedIn", url: "https://www.linkedin.com/in/frank-agbontaen-4949b0448/" },
+    { label: "Email", url: "frankagb@yahoo.com" },
   ],
 
   // ---------- Skills (optional — set to [] to hide) ----------
